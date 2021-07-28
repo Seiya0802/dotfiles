@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = winners-take-everything@i.softbank.jp
+	name = seiya yokoyama
